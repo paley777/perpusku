@@ -33,8 +33,6 @@ pengembangannya menggunakan software MySQL Workbench.
 - Templating for header and footer
 - Full CRUD Integrating
 - Authentication from Laravel
-- Upload and Update Images
-- Barcode generate and scan
 - Paginations
 - Search Data
 
