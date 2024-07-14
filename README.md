@@ -2,31 +2,26 @@
 ![Logo](https://i.ibb.co/c3bWKy2/image.png)
 
 
-# Sistem Informasi Perpustakaan (PerpusKu)
+# Library Information System (PerpusKu)
 
-Sistem Informasi Perpustakaan (PerpusKu) adalah sistem berbasis website
-dengan Framework Laravel 8. SIPerpus berfungsi untuk mempermudah
-manajemen perpustakaan. Sistem ini mengambil kasus perpustakaan di SMP Negeri 5 Bengkulu Tengah.
-
-
-
-## Integrasi
-Sistem ini selain menggunakan Laravel 8. Juga mengintegrasikan Framework
-Bootstrap sebagai front-end. Sistem ini menggunakan database SQL dan dalam 
-pengembangannya menggunakan software MySQL Workbench.
-
-
-## Fitur Pengguna
-
-- Manajemen Olah Data
-- Manajemen Transaksi (Peminjaman dan Pengembalian Buku)
-- Manajemen Laporan
+The Library Information System (PerpusKu) is a website-based system
+with the Laravel 8 Framework. SIPerpus functions to make things easier
+library management. This system takes the case of the library at SMP Negeri 5 Central Bengkulu.
 
 
 
+## Integration
+Apart from using Laravel 8, this system also integrates the Framework
+Bootstrap as front-end. This system uses SQL database and in 
+The development uses MySQL Workbench software.
 
 
-## Fitur Sistem
+## User Features
+- Data Processing Management
+- Transaction Management (Borrowing and Returning Books)
+- Report Management
+
+## System Features
 
 - Laravel 8
 - Using Eloquent from Laravel
@@ -36,7 +31,7 @@ pengembangannya menggunakan software MySQL Workbench.
 - Paginations
 - Search Data
 
-## Optimalisasi
+## Optimization
 
 N+1 Problems
 
@@ -92,6 +87,6 @@ Start the server
 ![App Screenshot](https://i.ibb.co/M9vf84D/image.png)
 
 
-## Saran
+## Suggestion
 
-Untuk saran dan masukan sistem ini harap berkenan email ke valleryan1212@gmail.com
+For suggestions and input on this system, please email valleryan1212@gmail.com
